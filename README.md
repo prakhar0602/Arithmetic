@@ -1,1 +1,2 @@
-Task 1
+Task 1 completed
+I have inserted Add functionality
