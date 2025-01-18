@@ -2,7 +2,7 @@ class Calculator{
     main{
         
     }
-    public static void subtract(int x,int y){
-        return x-y;
+    public static void product(int x,int y){
+        return x*y;
     }
 }
