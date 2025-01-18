@@ -5,6 +5,8 @@ class Calculator{
     public static void subtract(int x,int y){
         return x-y;
     }
-
     
+    public static void subtract(int x,int y){
+        return x-y;
+    }
 }
